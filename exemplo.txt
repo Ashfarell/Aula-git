@@ -6,3 +6,5 @@ alteração via gitHUB
 Segunda alteração via GITHUB
 
 alteração 01.06
+
+alteração via VS CODE 01.06
